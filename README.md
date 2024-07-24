@@ -1,4 +1,4 @@
-# Amazon Cart Functionality Tests
+# Amazon Cart Functionality Testing
 
 ## Overview
 
